@@ -1,0 +1,13 @@
+.scale{
+    transition: all 1s;
+    &:hover{
+        transform:scale(.8,.8);
+    }
+}
+
+.scale-letters{
+    transition: all 1s;
+    &:hover{
+        transform:scale(1.2,1.2);
+    }
+}
